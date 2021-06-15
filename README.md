@@ -1,6 +1,11 @@
-### Hi there 👋
+### About me :rocket:
 
 ⛺ Remote ⚙️ Devops 💻 Full Stack 💡 Engineer 
+
+🔭 DevOps engineer & Full Stack Web Developer with 9+ years of experience involved in the whole software development life cycle. 
+Expertise in .NET, Java, Azure Cloud and DevOps. 
+
+🌱 Self learner IA/Computer Vision & Blockchain/Cryptocurrency just for fun.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel.Alonzo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-alonzo)](https://www.linkedin.com/in/daniel-alonzo)
