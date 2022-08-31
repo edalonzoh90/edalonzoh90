@@ -2,7 +2,7 @@
 
 ⛺ Remote ⚙️ Devops 💻 Full Stack 💡 Engineer 
 
-🔭 DevOps engineer & Full Stack Web Developer with 9+ years of experience involved in the whole software development life cycle. 
+🔭 DevOps engineer & Full Stack Web Developer with 10+ years of experience involved in the whole software development life cycle. 
 Expertise in .NET, Java, Azure Cloud and DevOps. 
 
 🌱 Self learner IA/Computer Vision & AWS DevOps just for fun.
